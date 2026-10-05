@@ -1,7 +1,7 @@
 # C++ Algorithms & Data Structures
 
 Solutions to 11 assignments from the Programming Methods course at university,
-written in C++ (~3,400 lines). Each folder has its own README with details.
+written in C++. Each folder has its own README with details.
 
 | # | Topic |
 |---|-------|

@@ -1,0 +1,5 @@
+*.exe
+*.out
+.vscode/
+.idea/
+assignment2/Program code/lab2_best_match
